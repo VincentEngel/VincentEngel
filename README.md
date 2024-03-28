@@ -1,5 +1,4 @@
-### Hi there 👋 checkout my [website](https://vincentengel.github.io/) go get to know me
-
+### Hi there 👋 checkout my [website](https://vincentengel.github.io/)
 <!--
 **VincentEngel/VincentEngel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
